@@ -25,10 +25,7 @@ function makeInt(n) {
  }
 }
 function preserveDecimal(n) {
-  return parseFloat(2.222)
-  }
-  function isNaN() {
-    if (sldkjflksjf)  true
-    return NaN
+  if (typeof(n) === "number")
+  return n + " is already a number"
   }
   
