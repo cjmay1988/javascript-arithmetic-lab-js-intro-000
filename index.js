@@ -27,7 +27,7 @@ function makeInt(n) {
 function preserveDecimal(n) {
   if (typeof(n) === "number")
   return n + " is already a number"
-  }  else {
+  } {
     return parseFloat(n)
   }
   
