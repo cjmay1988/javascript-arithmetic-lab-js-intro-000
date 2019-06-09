@@ -28,6 +28,6 @@ function preserveDecimal(n) {
   return parseFloat(2.222)
   }
   function isNaN() {
-    return NaN('sldkjflksjf')
+    return 'sldkjflksjf'
   }
   
