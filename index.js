@@ -28,7 +28,7 @@ function preserveDecimal(n) {
   return parseFloat(2.222)
   }
   function isNaN() {
-    if 'sldkjflksjf' = true
-    
+    if (sldkjflksjf) = true
+    return NaN
   }
   
